@@ -1,0 +1,13 @@
+name: Decred
+symbol: DCR
+url: https://www.decred.org/
+consensus: PoW & PoS
+incentivized: Y
+consensus_distribution: 2
+consensus_distribution_source: https://dcrstats.com/pow
+wealth_distribution: 41%
+wealth_distribution_source: https://www.dcr.observer/#dist
+client_codebases: 1
+client_codebases_source: https://stats.decred.org/
+public_nodes: 258
+public_nodes_source: https://dcrstats.com/map
